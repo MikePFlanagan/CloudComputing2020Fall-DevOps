@@ -27,7 +27,7 @@ public class DataGenerator
                 new Product
                 {
                     ProductId = 2,
-                    Name = "Couch",
+                    Name = "futon",
                     Price = 299.95m,
                     Count = 10
                 }
